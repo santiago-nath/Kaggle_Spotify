@@ -1,3 +1,3 @@
 # Kaggle_Spotify
 Dataset Spotify 2019
-| Exercício proposto no grupo 'Mulheres em Dados'
+| Exercício proposto no grupo 'Mulheres em Dados' | Mentoria/Peer-review: Raquel Reis
